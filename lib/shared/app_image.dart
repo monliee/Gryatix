@@ -1,0 +1,47 @@
+// IMAGE
+const String imageSplash = 'assets/splashscreen.png';
+const String bannerHome = 'assets/banner_home.png';
+const String ilustrasi_1 = 'assets/ilustrasi_1.png';
+const String ilustrasi_2 = 'assets/ilustrasi_2.png';
+const String ilustrasi_3 = 'assets/ilustrasi_3.png';
+const String ilustrasi_4 = 'assets/ilustrasi_4.png';
+const String ilustrasiLogin = 'assets/ilustrasi_login.png';
+const String ilustrasiTiket = 'assets/ilustrasi_tiket.png';
+const String imageMitra_1 = 'assets/image_mitra_1.png';
+const String imageMitra_2 = 'assets/image_mitra_2.png';
+const String imageTiketBis = 'assets/image_tiket_bis.png';
+const String imageWisata_1 = 'assets/image_wisata_1.png';
+const String imageWisata_2 = 'assets/image_wisata_2.png';
+const String imageWisata_3 = 'assets/image_wisata_3.png';
+const String logoOnboarding = 'assets/logo_onboarding.png';
+const String onboarding_1 = 'assets/onboarding_1.png';
+const String onboarding_2 = 'assets/onboarding_2.png';
+const String onboarding_3 = 'assets/onboarding_3.png';
+// const String imageBanerTopUp = 'assets/image_baner_topup.png';
+// const String imagePlaceholderPng = 'assets/placeholder.png';
+// const String imagePlaceholderJpg = 'assets/placeholder.jpg';
+// const String imageNoInternet = 'assets/no_internet.png';
+
+// ICON
+const String iconInfoAturan = 'assets/icon_aturan_umum.png';
+const String iconBisParwis = 'assets/icon_bis_pariwisata.png';
+const String iconBokingHotel = 'assets/icon_boking_hotel.png';
+const String iconBokingTravel = 'assets/icon_boking_travel.png';
+const String iconDollarOrange = 'assets/icon_dollar_orange.png';
+const String iconHomeSelected = 'assets/icon_home_selected.png';
+const String iconHomeUnselected = 'assets/icon_home_unselected.png';
+const String iconInfoKereta = 'assets/icon_info_kereta_api.png';
+const String iconMessageSelected = 'assets/icon_message_selected.png';
+const String iconMessageUnselected = 'assets/icon_message_unselected.png';
+const String iconPenerbanganDomestik = 'assets/icon_penerbangan_domestik.png';
+const String iconPenerbanganInter = 'assets/icon_penerbangan_inter.png';
+const String iconProfileSelected = 'assets/icon_profile_selected.png';
+const String iconProfileUnselected = 'assets/icon_profile_unselected.png';
+const String iconTiketBis = 'assets/icon_tiket_bis.png';
+const String iconLocationKuning = 'assets/icon_tiket_bis.png';
+const String iconTiketKereta = 'assets/icon_tiket_kereta.png';
+const String iconTiketPesawat = 'assets/icon_tiket_pesawat.png';
+const String iconTiketSelected = 'assets/icon_tiket_selected.png';
+const String iconTiketUnselected = 'assets/icon_tiket_unselected.png';
+const String iconTiketWisata = 'assets/icon_tiket_wisata.png';
+const String iconRentalMobil = 'assets/icon_rental_mobil.png';
